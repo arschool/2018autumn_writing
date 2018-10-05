@@ -1,0 +1,35 @@
+### topページの文言 ###
+
+## 不安なこと/FAQ ##
+faq:
+  title: 不安なことはありますか？
+  section1:
+    title: 女の子向きのレッスンはありますか
+    desc: |-
+      アルスクールのレッスンはロボットやゲームばかりではありません。
+    readMoreButton: もっと見る
+
+  section2:
+    title: 難しそうでついていけるか不安です
+    desc: |-
+      難しそう、落ち着きがない、すぐ飽きるなど、お子さんにふあんを持たれる方はぜひお読みください。
+      XXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXX XXXXXXXXXXX
+    readMoreButton: もっと見る
+
+  section3:
+    title: 女の子向きのレッスンはありますか
+    desc: |-
+      アルスクールのレッスンはロボットやゲームばかりではありません。
+      XXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXX XXXXXXXXXXX
+    readMoreButton: もっと見る
+
+  section4:
+    title: 女の子向きのレッスンはありますか
+    desc: |-
+      アルスクールのレッスンはロボットやゲームばかりではありません。
+      XXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXXXX XXXXXXXXXXXXX XXXXXXXXXXX
+    readMoreButton: もっと見る
+
+  readMoreButton: よくある不安や疑問を解決しよう
+
+## 不安なこと/FAQ ここまで ##
