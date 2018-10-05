@@ -1,0 +1,15 @@
+### ヘッダー ###
+title: アルスクール  探究型キッズプログラミング教室
+subTitle: 自由が丘、新橋、中野 / 4歳〜中学生
+button:
+  trial: 無料体験
+  brochure: 資料請求
+  tel: <i class="fa fa-mobile-phone" aria-hidden="true"></i>お電話
+  inquiry: '<i class="fa fa-envelope" aria-hidden="true" style="margin\: 0"></i>'
+menu:
+  home: HOME
+  1: アルスクールの学び
+  2: アルスクールの想い
+  3: 料金・教室
+  4: 活動の様子
+  5: お悩みの方へ
