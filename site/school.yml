@@ -1,7 +1,7 @@
 ### 料金・教室ページの文言 ###
 
 ## メイン画像
-heading: 料金・教室
+heading: 教室・料金
 
 ## ページ上部のナビゲーション ##
 navi:
@@ -27,6 +27,7 @@ section1:
     desc: |-
       水、木、金、土（仮）
   readMoreButton: 自由が丘校の詳細
+  trialButton: 自由が丘校の無料体験会
 
 section2:
   title: 新橋校
@@ -61,4 +62,6 @@ section3:
     desc: |-
       水、木、金、土（仮）
   readMoreButton: 中野校の詳細
+
+inquiryButton: 各校のお申込み・お問い合わせ
 

@@ -1,24 +1,23 @@
 ### フッター ###
 menu:
-  1st:
-    1: HOME
-  2nd:
-    1: アルスクールの学び
-    2: アルスクールの想い
-    3: 料金・教室
-    4: 活動の様子
-    5: お悩みの方へ
-  3rd:
-    1: 各教室
-    1-1: 自由が丘校
-    1-2: 新橋校
-    1-3: 中野校
-  4th:
-    1: 無料体験
-    2: 資料請求
-    3: お問い合わせ
-  5th:
-    1: 会社概要
+  home: HOME
+  learn: アルスクールの学び
+  vision: アルスクールの想い
+  school: 教室・料金
+  activity: 活動の様子
+  faq: お悩みの方へ
+  jiyugaoka: 自由が丘校
+  shinbashi: 新橋校
+  nakano: 中野校
+  aboutus: 会社概要
+  trial: 無料体験
+  brochure: 資料請求
+  inquiry: お問い合わせ
+  company: 会社概要
+  staffRecruit: 教師募集
+  recruit: 採用
+  tokusho: 特定商取引法表示
+  privacy: プライバシーポリシー
 
 title: アルスクール  探究型キッズプログラミング教室
 desc: |-

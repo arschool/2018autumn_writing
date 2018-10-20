@@ -14,7 +14,7 @@ common:
       access: アクセス
 
   #セクション見出し
-  lesson:
+  activity:
     title: レッスンの様子
   staff:
     title: スタッフ紹介
@@ -44,6 +44,8 @@ jiyugaoka:
 
   ## 概要
   summary:
+    title: 自由が丘校 概要 # 見出し
+    subTitle: 自由が丘校は、アルスクールが間借りではなくちゃんと校舎をもった最初の教室で、学びの空間づくりから我々で設計しています。
     td:
       age: 小学生、中学生、幼児（年中、年長）
       schedule: （仮）水曜日、木曜日、金曜日、土曜日
