@@ -1,7 +1,7 @@
 ### アルスクールの学びページの文言 ###
 
 ## メイン画像
-heading: アルスクールの学び
+heading: アルスクールの学びの内容
 
 #ページ上部キャッチフレーズ
 catchphrase: |-
@@ -11,102 +11,140 @@ catchphrase: |-
 ## ページ上部のナビゲーション ##
 navi:
   - 教室の雰囲気
-  - 3つの行動指針
-  - 子どものマインド
+  - 3つの合言葉
+  - 学びの姿勢
   - カリキュラム
   - 使用教材
 
 
 ## メインコンテンツ
-sections:
-  - title: アクティブで夢中になる教室
-    subTitle: アルスクールでは子どもたちが元気いっぱいに真剣にプロジェクトに取り組んでいます。
-    contents:
-      - title: 待ちきれないで前のめり
-        desc: |-
-          やらされるのではなく、自ら進んで学びに取り組み進んでいきます
-      - title: 諦めないで考えまくる
-        desc: |-
-          何とか作りあげよう、達成しようと、諦めないでやり抜きます
-      - title: 好奇心にまかせ思いっきり楽しむ
-        desc: |-
-          正しい道なんかない、行きたい道を思う存分、突き進みます
+classroom:
+  title: 教室の雰囲気
+  subTitle: |-
+    教室はとても賑やかで元気がみなぎってます。
+    好奇心を学びにつなげ、真剣な表情と達成した喜びに溢れています。
 
-  - title: 大切にしている3つのT
-    subTitle: 3Tを大切にすることで、子どもも大人も関係なくオモシロい学びの場になります
-    contents:
-      - title: TRY！　まずはやってみよう！挑戦だ！
-        desc: |-
-          はじめの一歩をふみだそう！うまくいくのか、やってみるまでわからない。始めてみればいいんだよ。「やってみたい」という好奇心を大切にします。
-      - title: TINKER！　つくってなおして改善だ！
-        desc: |-
-          つくり続けてよくしよう！ためしつづけて、だんだんできるようになる。試行錯誤で学ぶんだ。「じっくりと」した一歩一歩を大切にします。
-      - title: THINK！　みつけてかんがえ解決だ！
-        desc: |-
-          自分のやりかたみつけよう！自分でかんがえ、調べてみてから相談だ。解決できないものはない。「なぜだろう」からの突破力を大切にします。
+threeT:
+  title: 3つの合言葉
+  subTitle: |-
+    自発的に学び、つくる面白さを実感するための
+    大切な <span class="pink">3つのT</span> を合言葉にしています
+  contents:
+    - title: <span class="pink">Try！</span>　まずはやってみよう！挑戦だ！
+      desc: |-
+        はじめの一歩をふみだそう！うまくいくのか、やってみるまでわからない。始めてみればいいんだよ。「やってみたい」という好奇心を大切にします。
+    - title: <span class="pink">Tinker！</span>　つくってなおして改善だ！
+      desc: |-
+        つくり続けてよくしよう！ためしつづけて、だんだんできるようになる。試行錯誤で学ぶんだ。「じっくりと」した一歩一歩を大切にします。
+    - title: <span class="pink">Think！</span>　みつけてかんがえ解決だ！
+      desc: |-
+        自分のやりかたみつけよう！自分でかんがえ、調べてみてから相談だ。解決できないものはない。「なぜだろう」からの突破力を大切にします。
 
-  - title: アルスクールの目指すオモシロ状態
-    subTitle: 3Tを大切にすることで、子ども達が次のような状態になることを目指しています
-    contents:
-      - title: <i class="fa fa-circle-o"></i> 主体的に行動する（<span class="line-through"><i class="fa fa-arrows-h"></i>指示される</span>）
-        desc: |-
-      - title: <i class="fa fa-circle-o"></i> 合ってるか試行錯誤する（<span class="line-through"><i class="fa fa-arrows-h"></i> 正解を見る</span>）
-        desc: |-
-      - title: <i class="fa fa-circle-o"></i> 自分なりに考える（<span class="line-through"><i class="fa fa-arrows-h"></i> 覚える</span>）
-        desc: |-
-      - title: <i class="fa fa-circle-o"></i> 気になったらどんどん調べる（<span class="line-through"><i class="fa fa-arrows-h"></i> テキストに沿う</span>）
-        desc: |-
-      - title: <i class="fa fa-circle-o"></i> スタッフと一緒に学ぶ（<span class="line-through"><i class="fa fa-arrows-h"></i> 教える側、教わる側</span>）
-        desc: |-
-      - title: <i class="fa fa-circle-o"></i> 積極的に挑戦する（<span class="line-through"><i class="fa fa-arrows-h"></i> 失敗を責められる</span>）
-        desc: |-
+omoshiro:
+  title: 学びの姿勢
+  subTitle: |-
+    学びが加速する最高の雰囲気を <span class="pink">オモシロ状態</span>と呼んでいます
+    子ども達がオモシロ状態になるような場を作ります
 
-  - title: カリキュラム例
-    subTitle:
-    contents:
-      - title: 幼児〜小1 / 教材：キュベット、工作
-        desc: |-
-          ・アイデアを紙に書いてみる
-          ・自分の考えを言葉や絵にする
-          ・思ったとおりに手を動かす
-          ・興味のあることを納得行くまでやる
-          ・命令と実行の概念をなんとなく体感する
-      - title: 小学校低学年 / 教材：レゴ、CodeMonkey、工作
-        desc: |-
-          ・PCやタブレットに慣れる
-          ・タイピングを始める
-          ・レゴなどを通じて、命令と実際の挙動との関係性を理解する
-          ・目的に対してどうやったら解決できるか考える癖をつける
-          ・実行し間違いを見つけ修正する、というフローになれる
-          ・他人のやり方を参考にし取り入れてみる
-          ・IoTツールと工作を組み合わせて、実体を伴うプログラミングを身につける
-          ・条件分岐や繰り返しなどのプログラミングの知識に触れる
-
-      - title: 小学校高学年〜中学生 / 教材：Micro:bit、CodeMonkey、HTML/CSS/JavaScript、工作
-        desc: |-
-          ・自由にタイピングできる
-          ・プログラミングに必要なソフトウェアに慣れる
-          ・条件分岐や繰り返しなどのプログラミングの知識を使える
-          ・自分の発想を、どうやったらプログラミングで表現できるか、論理的に考えてみる
-          ・わからないことを自分で調べられるようになる訓練をする
+  contents:
+    - ok: 自発的に行動する
+      ng: 指示されたことをする
+    - ok: 試行錯誤して学ぶ
+      ng: 正解を教えてもらう
+    - ok: まずやってみる
+      ng: 間違いを恐れる
+    - ok: 思考し理解する
+      ng: 答えを覚える
+    - ok: アイデアを試す
+      ng: テキスト通りに進める
+    - ok: 大人と一緒に学ぶ
+      ng: 教える側と教わる側
+    - ok: 探究心を駆り立てる
+      ng: 単なる放置、放任
+    - ok: 挑戦を見守る
+      ng: すぐ口出しする
 
 
-  - title: 使用教材
-    subTitle:
-    contents:
-      - title: micro:bit
-        desc: |-
-          説明説明説明説明説明説明説明説明
-          説明説明説明説明説明説明説明説明
-      - title: レゴBOOST
-        desc: |-
-          説明説明説明説明説明説明説明説明
-          説明説明説明説明説明説明説明説明
-      - title: キュベット
-        desc: |-
-          説明説明説明説明説明説明説明説明
-          説明説明説明説明説明説明説明説明
-      - title: CodeMonkey
-        desc: |-
-          説明説明説明説明説明説明説明説明
-          説明説明説明説明説明説明説明説明
+curriculum:
+  title: カリキュラム
+  subTitle: |-
+    学年ごとの大まかな学習のステップイメージです
+    それぞれの子の発育と習得状況に合わせて調整します
+
+  contents:
+    - age: 幼児 〜 小1
+      tool: キュベット、工作
+      desc:
+        - アイデアを紙に書いてみる
+        - 自分の考えを言葉や絵にして伝える
+        - 入力と出力の概念をなんとなく体感する
+        - 命令と実行結果の概念をなんとなく体感する
+        - 思い通りに切ったり塗ったりできるようにする
+        - 興味のあることを納得行くまでやる
+        - PCやタブレットはあまり使いません
+    - age: 小2 〜 小3
+      tool: レゴBOOST、CodeMonkey、工作
+      desc:
+        - PCやタブレットに慣れる
+        - タイピングを始める
+        - プログラミングの概念に触れる
+        - やりたいことを入力と出力に分けて表現する
+        - 命令と実行結果との関係性を理解する
+        - 条件分岐や繰り返しなどのプログラミングに触れる
+        - 問題解決のための試行錯誤のやり方に慣れる
+        - 周囲のやり方を参考にし取り入れてみる
+
+    - age: 小4 〜 中学生
+      tool: Micro:bit、CodeMonkey、HTML/CSS/JavaScript、工作
+      desc:
+        - プログラミングのソフトウェアやサービスに触れる
+        - プログラミングと算数や科学の知識を関連付ける
+        - 工作にセンサーなどを取り入れる
+        - 条件分岐や繰り返しなどのプログラミングを使える
+        - 発想をどうプログラミングで実現するか考える
+        - うまくいかない原因を論理的に考える
+        - 不明点や新しい知識を調べる方法を学ぶ
+
+tools:
+  title: 使用教材
+  subTitle: |-
+    教室で使う主なプログラミング教材を紹介します
+    工作やPC,タブレットを使わない学びも取り入れています
+  contents:
+    - title: BBC micro:bit（マイクロビット）
+      img:
+        - /tmpimg/learn/tool/microbit/microbit2.jpg
+        - /tmpimg/learn/tool/microbit/microbit3.jpg
+      desc: |-
+        英国BBCを中心に教育目的で開発された、約8g、名刺サイズよりも小さいコンピューターです。
+        イギリスで11歳～12歳の子供全員に無償で配布され、シンガポールなどでも教育現場での活用が進んでいます。
+      linkText: micro:bit公式サイト
+      linkUrl: http://microbit.org/ja/
+
+
+    - title: レゴBOOST（ブースト）
+      img:
+        - /tmpimg/learn/tool/lego/lego4.jpg
+        - /tmpimg/learn/tool/lego/lego2.jpg
+      desc: |-
+        タブレットからレゴを動かせるレゴシリーズです。2018年2月に日本で販売開始されました。車をカーブさせたり、カラーセンサーがあるなど、今までのレゴよりオモシロいことができます。
+      linkText: レゴBOOST公式サイト
+      linkUrl: https://www.lego.com/ja-jp/service/device-guide/boost
+
+    - title: キュベット
+      img:
+        - /tmpimg/learn/tool/cubetto/cubetto1.jpg
+        - /tmpimg/learn/tool/cubetto/cubetto2.jpg
+      desc: |-
+        キュベットは手を使って遊ぶ木のおもちゃ。キュベットと一緒に冒険しながら、子どもたちはプログラミングの基礎を身につけます。
+      linkText: キュベット公式サイト
+      linkUrl: https://www.primotoys.jp/
+
+    - title: CodeMonkey（コードモンキー）
+      img:
+        - /tmpimg/learn/tool/codemonkey/codemonkey2.jpg
+        - /tmpimg/learn/tool/codemonkey/codemonkey1.jpg
+      desc: |-
+        CodeMonkeyは、子どもから大人まで楽しめるプログラミング学習ゲームです。プログラミング教育が盛んなイスラエルの全土の小学校を始め、世界中で600万人以上がCodeMonkeyでプログラミングを学んでいます。
+      linkText: CodeMonkey公式サイト
+      linkUrl: https://codemonkey.jp/

@@ -10,7 +10,7 @@ fb:
   title: Facebookページ
 
 feature:
-  - icon: <i class="fa fa-calendar-check-o"></i>
+  - icon: <i class="far fa-calendar-check"></i>
     title: 平日も週末も多数開催、途中参加もOK
     desc: 11月12月は連日、無料イベントを開催しています
 
@@ -28,7 +28,7 @@ feature:
 
 
 flow:
-  - icon: <i class="fa fa-calendar-check-o"></i>
+  - icon: <i class="far fa-calendar-check"></i>
     title: まずはこのページで日付を選択
     desc: 11月12月は連日、無料イベントを開催しています
 

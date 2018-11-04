@@ -1,0 +1,31 @@
+### 各ページ共通の文言 ###
+staff:
+  murano:
+    name: 村野 智浩
+    position: 代表取締役 CEO
+    shortMessage: ITスペシャリスト&起業家として子どもの未来をツクる
+    message: >-
+      <p>東京大学工学部&nbsp;地球システム工学科卒業。2児のパパ。</p>
+      <p>チームラボやアクセンチュアで活躍後、<a href="http://boocoo.co.jp" rel="noopener" target="_blank">boocoo<i class="el el-share blank-icon"></i></a> を創業、他にも数社の代表を務める。<br>
+      育児xテクノロジーをキーワードに、子どもの未来を創るべく奮闘中。</p>
+
+
+  yamazaki:
+    name: 山﨑 智仁
+    position: 取締役 創作総指揮
+    shortMessage: 探究する学び x IT教育のスペシャリスト
+    message: >-
+      <p>慶應義塾大学大学院政策・メディア研究科修士課程修了。</p>
+      <p><a href="http://tokyocs.org/" rel="noopener" target="_blank">東京コミュニティスクール<i class="el el-share blank-icon"></i></a> 教育スタッフ、慶應義塾大学SFC研究所上席所員。多くの小学生と探究する学びを実践している。</p>
+      <p>認知科学と教育実践の両面から「学び」と「テクノロジー」をつなぐ研究開発を続ける。</p>
+
+  fukuba:
+    name: 福場 梨紗
+    position: COO
+    shortMessage: 経営 x ITのスペシャリストなスーパーSTEM女子
+    message: >-
+      <p>東京大学経済学部経営学科卒業。1児の母。</p>
+      <p>日本IBMやシーエー・モバイルで要職を歴任。独立後はITコンサルティングを行う一方、パパ・ママを支援する株式会社ママメディを創業。<br>
+      「育児とテクノロジー」への熱い想いを抱いて、アルスクールに参画。</p>
+
+

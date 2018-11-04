@@ -4,12 +4,12 @@ subTitle: 自由が丘、新橋、中野 / 4歳〜中学生
 button:
   trial: 無料体験
   brochure: 資料請求
-  tel: <i class="fa fa-mobile-phone" aria-hidden="true"></i>お電話
+  tel: <i class="fa fa-mobile-alt" aria-hidden="true"></i>お電話
   inquiry: '<i class="fa fa-envelope" aria-hidden="true" style="margin\: 0"></i>'
 menu:
   home: HOME
-  1: アルスクールの学び
-  2: アルスクールでの成長
+  1: 学びの内容
+  2: 学びの目標
   3: 教室・料金
   4: 活動の様子
   5: お悩みの方へ
