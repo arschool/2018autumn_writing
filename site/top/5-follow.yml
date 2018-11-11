@@ -4,12 +4,12 @@
 follow:
   title: 最新情報をチェック
   subTitle: メルマガやSNSでアルスクールのイベント情報や新しい教育に関する情報をお知らせします
-  mailmagazine:
-    title: メルマガ登録
-    placeholder:
-      email: メールアドレスを入力
-      name: 保護者の名前を入力
-    submitButton: Submit
+#  mailmagazine:
+#    title: メルマガ登録
+#    placeholder:
+#      email: メールアドレスを入力
+#      name: 保護者の名前を入力
+#    submitButton: Submit
 
   facebook:
     title: Facebookでチェック

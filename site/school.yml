@@ -16,7 +16,7 @@ section1:
   sub1:
     title: 対象年齢
     desc: |-
-      小学生、中学生、幼児（年中、年長相当）
+      小学生、中学生、幼児(年中、年長)
   sub2:
     title: アクセス
     desc: |-
@@ -25,7 +25,7 @@ section1:
   sub3:
     title: 曜日
     desc: |-
-      水、木、金、土（仮）
+      (仮)水曜、木曜、金曜、土曜
   readMoreButton: 自由が丘校の詳細
   trialButton: 自由が丘校の無料体験会
 
@@ -34,16 +34,17 @@ section2:
   sub1:
     title: 対象年齢
     desc: |-
-      小学生、中学生、幼児（年中、年長相当）
+      小学生、中学生、幼児(年中、年長)
   sub2:
     title: アクセス
     desc: |-
-      自由が丘駅（東急東横線）　徒歩6分
-      自由が丘駅（東急大井町線）　徒歩6分
+      新橋駅（JR山手線など）　徒歩9分
+      御成門駅（都営三田線）　徒歩6分
+      大門駅（都営大江戸線など）　徒歩9分
   sub3:
     title: 曜日
     desc: |-
-        水、木、金、土（仮）
+        日曜
   readMoreButton: 新橋校の詳細
 
 section3:
@@ -51,16 +52,15 @@ section3:
   sub1:
     title: 対象年齢
     desc: |-
-      小学生、中学生、幼児（年中、年長相当）
+      小2〜中学生
   sub2:
     title: アクセス
     desc: |-
-      自由が丘駅（東急東横線）　徒歩6分
-      自由が丘駅（東急大井町線）　徒歩6分
+      中野駅（JR中央線など）　徒歩9分
   sub3:
     title: 曜日
     desc: |-
-      水、木、金、土（仮）
+      月曜
   readMoreButton: 中野校の詳細
 
 inquiryButton: 各校のお申込み・お問い合わせ

@@ -25,10 +25,12 @@ schoolCommon:
 
   #詳細（ページ下部）
   detail:
-    title: 詳細情報 # 見出し
+    title: 地図・アクセス # 見出し
     th:
       address: 住所
-      tel: 電話番号
+      tel: TEL
+      access: アクセス
+      navigation: 行き方
 
 
 ### 自由が丘校 ###
@@ -36,26 +38,23 @@ jiyugaoka:
   ## メイン画像
   heading: 自由が丘校
 
-#  ## 学校説明
-#  schoolName: 自由が丘校
-#  schoolDescTitle: 空間づくりからアルスクールで実施
-#  schoolDescBody: |-
-#    自由が丘校は、学びの空間づくりからアルスクールで設計した、本拠地です。
-
-
   ## 概要
   summary:
     title: 自由が丘校 概要 # 見出し
     subTitle: >-
-      自由が丘校は、2018年12月にOPENしたばかりの常設1校目で、子どもがアクティブになるように設計しています。
-      新しい学びの発信基地として進化しつづける学び場です。<br>
-      無料体験会や保護者向けイベントも開催しておりますので、お気軽にお越しください。
+      自由が丘校は、2018年12月にOPENの、新しい学びの発信基地です。<br>
+      無料体験会や保護者イベントも開催しておりますので、お気軽にお越しください。
     td:
       age: 小学生、中学生、幼児<span class="small">（年中、年長）</span>
       schedule: 水曜日、木曜日、金曜日、土曜日<span class="small">（曜日は仮です）</span>
       price: |-
-        月2回コース：月額 10,500円 <span class="small">(税込:11,340円)</span>
-        月4回コース：月額 18,000円 <span class="small">(税込:19,440円)</span>
+        月2回コース：
+            小2〜中3  月額 10,500円 <span class="small">(税込:11,340円)</span>
+            年中〜小1  月額 7,000円 <span class="small">(税込:7,560円)</span>
+
+        月4回コース：
+            小2〜中3  月額 18,000円 <span class="small">(税込:19,440円)</span>
+            年中〜小1  月額 12,000円 <span class="small">(税込:12,960円)</span>
       access: |-
         自由が丘駅<span class="small">（東急東横線、大井町線）</span> 徒歩6分
         ※自転車でのご来訪はご遠慮ください。
@@ -63,5 +62,82 @@ jiyugaoka:
   #詳細（ページ下部）
   detail:
     td:
-      address: 住所
-      tel: 電話番号
+      address: |-
+        〒152-0035
+        東京都目黒区自由が丘1-23-24
+        サンテラス自由が丘 102
+      tel: 03-5937-1601
+      access: |-
+        自由が丘駅（東急東横線）　徒歩6分
+        自由が丘駅（東急大井町線）　徒歩6分
+      #navigatinはまだ作成中
+      navigation: |-
+        自由が丘駅からの行き方:
+        正面口を出て右手、自由が丘デパートに沿って道なりに歩きます。
+        突き当りを左斜め前、亀屋万年堂総本店の方向へ。
+        そのまま進み、左側に自由が丘ロールを過ぎて、右側にパン屋さんがある角を左折。
+        少し上り坂ですが、そこから100mほどの左手にあります。
+
+
+### 新橋校 ###
+shinbashi:
+  ## メイン画像
+  heading: 新橋校
+
+  ## 概要
+  summary:
+    title: 新橋校 概要 # 見出し
+    subTitle: >-
+    td:
+      age: 小学生、中学生、幼児<span class="small">（年中、年長）</span>
+      schedule: 日曜日<span class="small">（月2回）</span>
+      price: |-
+          全6回 ¥31,500- <span class="small">(税込:34,020円)</span>
+      access: |-
+        新橋駅<span class="small">（JR、東京メトロ）</span> 徒歩9分
+        御成門駅<span class="small">（都営三田線）</span> 徒歩6分
+        大門駅<span class="small">（都営大江戸線、浅草線）</span> 徒歩9分
+
+  #詳細（ページ下部）
+  detail:
+    td:
+      address: |-
+        有限会社PrimeConsulting 社内
+        〒105-0004
+        東京都港区新橋6丁目12-5
+        TRCビル6階
+        （<a href="https://primeconsulting.jp/" rel="noopener" target="_blank" class="ext-link">PrimeConsulting社</a>のご厚意により場所をお借りしています）
+      tel: 090-4917-0470
+      access: |-
+        新橋駅<span class="small">（JR、東京メトロ）</span> 徒歩9分
+        御成門駅<span class="small">（都営三田線）</span> 徒歩6分
+        大門駅<span class="small">（都営大江戸線、浅草線）</span> 徒歩9分
+
+
+### 中野校 ###
+nakano:
+  ## メイン画像
+  heading: 中野校
+
+  ## 概要
+  summary:
+    title: 中野校 概要 # 見出し
+    subTitle: >-
+    td:
+      age: 小学生(2年〜)、中学生
+      schedule: 月曜日<span class="small">（月3回）</span>
+      price: |-
+          月 14,500円 <span class="small">(税込:15,660円)</span>
+      access: |-
+        中野駅<span class="small">（JR、東京メトロ）</span> 徒歩9分
+
+  #詳細（ページ下部）
+  detail:
+    td:
+      address: |-
+        特定非営利活動法人 東京コミュニティスクール校舎
+        〒164-0001
+        東京都中野区中野1−62−10
+      tel: 090-4917-0470
+      access: |-
+        中野駅<span class="small">（JR、東京メトロ）</span> 徒歩9分

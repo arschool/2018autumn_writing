@@ -5,11 +5,11 @@ button:
   trial: 無料体験
   brochure: 資料請求
   tel: <i class="fa fa-mobile-alt" aria-hidden="true"></i>お電話
-  inquiry: '<i class="fa fa-envelope" aria-hidden="true" style="margin\: 0"></i>'
+  inquiry: <i class="fa fa-envelope no-mr"></i>
 menu:
   home: HOME
   1: 学びの内容
   2: 学びの目標
   3: 教室・料金
   4: 活動の様子
-  5: お悩みの方へ
+  5: よくある質問
