@@ -25,7 +25,7 @@ section1:
   sub3:
     title: 曜日
     desc: |-
-      (仮)水曜、木曜、金曜、土曜
+      水曜日、木曜日、金曜日、土曜日
   readMoreButton: 自由が丘校の詳細
   trialButton: 自由が丘校の無料体験会
 
@@ -44,7 +44,7 @@ section2:
   sub3:
     title: 曜日
     desc: |-
-        日曜
+        日曜日
   readMoreButton: 新橋校の詳細
 
 section3:
@@ -60,7 +60,7 @@ section3:
   sub3:
     title: 曜日
     desc: |-
-      月曜
+      月曜日
   readMoreButton: 中野校の詳細
 
 inquiryButton: 各校のお申込み・お問い合わせ
