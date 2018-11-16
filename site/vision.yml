@@ -43,29 +43,29 @@ skills:
     アルスクールでは、モノづくりやプログラミングを学びながら
     未来をつくるために大切な<span class="pink">非認知スキル</span>と<span class="green">認知スキル</span>を伸ばします。
   spirits:
-    - title: 自己調整能力 (Self-Reg)
+    - title: 自己調整能力<br>(Self-Reg)
       desc: |-
         自分と他者との適切な距離感を掴み、バランスを調節する力
-    - title: 知的好奇心 (Curiosity)
+    - title: 知的好奇心<br>(Curiosity)
       desc: |-
         初めてのこと、知らないことに興味を持ち、臆せず挑戦する力
-    - title: 諦めない心 (Grit)
+    - title: 諦めない心<br>(Grit)
       desc: |-
         困難にぶつかっても諦めずに創意工夫し、課題を完遂する力
-    - title: 創造性 (Creativity)
+    - title: 創造性<br>(Creativity)
       desc: |-
         知識と経験を総動員して組み合わせ、新たな解を発見する力
   skills:
-    - title: 言語能力 (Language Ability)
+    - title: 言語能力<br>(Language Ability)
       desc: |-
         プログラミング言語を学び、仲間との対話の中でやり取りをする、ことばの力
-    - title: 問題解決能力 (Problem Solving Skill)
+    - title: 問題解決能力<br>(Problem Solving Skill)
       desc: |-
         目的達成への道筋を考え分解し、知識を活用して、1つずつ解決する力
-    - title: STEM知識 (STEM Knowledge)
+    - title: STEM知識<br>(STEM Knowledge)
       desc: |-
         プログラミングのスキル、デジタルデバイスの操作方法、算数・科学の知識、タイピングスキルなど
-    - title: 身体的技能 (Motor Skills)
+    - title: 身体的技能<br>(Motor Skills)
       desc: |-
         自由自在に絵を描いたりハサミを使うなど、表現や工作で必要となる身体的技能
 
