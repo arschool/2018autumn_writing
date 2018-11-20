@@ -10,7 +10,7 @@ schoolCommon:
     th:
       age: 対象学年
       schedule: 開催曜日
-      price: 料金
+      price: 基本料金
       access: アクセス
 
   #セクション見出し
