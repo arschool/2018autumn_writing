@@ -30,6 +30,22 @@ section1:
   trialButton: 自由が丘校の無料体験会
 
 section2:
+  title: 中野校
+  sub1:
+    title: 対象年齢
+    desc: |-
+      小2〜中学生
+  sub2:
+    title: アクセス
+    desc: |-
+      中野駅（JR中央線など）　徒歩9分
+  sub3:
+    title: 曜日
+    desc: |-
+      月曜日
+  readMoreButton: 中野校の詳細
+
+section3:
   title: 新橋校
   sub1:
     title: 対象年齢
@@ -46,22 +62,6 @@ section2:
     desc: |-
         日曜日
   readMoreButton: 新橋校の詳細
-
-section3:
-  title: 中野校
-  sub1:
-    title: 対象年齢
-    desc: |-
-      小2〜中学生
-  sub2:
-    title: アクセス
-    desc: |-
-      中野駅（JR中央線など）　徒歩9分
-  sub3:
-    title: 曜日
-    desc: |-
-      月曜日
-  readMoreButton: 中野校の詳細
 
 inquiryButton: 各校のお申込み・お問い合わせ
 
