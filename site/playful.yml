@@ -1,0 +1,81 @@
+### 料金・教室ページの文言 ###
+
+## メイン画像
+headingMini: 自由にプログラミングをしよう
+heading: Playful Time
+
+
+## メインコンテンツ
+catchHeading: <ruby>Playful Time<rt>プレイフル タイム</rt></ruby>とは？
+catch: |-
+  PCやタブレット、レゴBOOSTなどを<br>自由に使って遊べる時間です
+  自由にプログラミングできる環境で探究心を刺激します
+
+featureHeading: <ruby>Playful Time<rt>プレイフル タイム</rt></ruby></span>の特徴
+feature:
+  - 金曜、土曜の午後にアルスクール自由が丘校で開催
+  - PCやレゴ、micro:bitやキュベットなどを自由に使えます
+  - 工作の道具や段ボールなども自由に使えます
+  - アルスクールキッズ<span class="small">(*1)</span>は無料、一般の方も有料で利用可
+  - 友達を呼んだり、パパ・ママと一緒にやってみよう
+  - スタッフは教えるのではなく、一緒に遊びます
+
+
+tools:
+  title: 利用できるデバイス
+#  subTitle: |-
+#    数に限りがあります。譲り合ってご利用ください。またお持ち帰りできません。
+  contents:
+    - title: PC (Chromebook)
+      img:
+        - /img/playful/tool/pc.jpg
+      desc: |-
+        アメリカの教育現場などで広く用いられているリーズナブルなノートパソコン。Googleが開発するGoogle Chorme OSを掲載。
+      linkText: Chromebook公式サイト
+      linkUrl: https://www.google.com/intl/ja_jp/chromebook/about/
+
+    - title: iPad
+      img:
+        - /img/playful/tool/ipad.jpg
+      desc: |-
+        アップル社が開発したタブレット。アルスクールでは主に9.7インチのものを使っています。
+      linkText: iPad公式サイト
+      linkUrl: https://www.apple.com/jp/ipad-9.7/
+
+    - title: BBC micro:bit（マイクロビット）
+      img:
+        - /img/playful/tool/microbit.jpg
+      desc: |-
+        英国BBCを中心に教育目的で開発された、名刺よりも小さいコンピューターです。工作と組み合わせていろんなことができます。
+      linkText: micro:bit公式サイト
+      linkUrl: http://microbit.org/ja/
+
+
+    - title: レゴBOOST（ブースト）
+      img:
+        - /img/playful/tool/lego.jpg
+      desc: |-
+        タブレットからレゴを動かせるレゴシリーズです。車をカーブさせたり、カラーセンサーなど、オモシロいことができます。
+      linkText: レゴBOOST公式サイト
+      linkUrl: https://www.lego.com/ja-jp/service/device-guide/boost
+
+    - title: キュベット
+      img:
+        - /img/playful/tool/cubetto.jpg
+      desc: |-
+        キュベットは手を使って遊ぶ木のおもちゃ。ディスプレイを見ずに幼児でも直感的にプログラミングを体験できます。
+      linkText: キュベット公式サイト
+      linkUrl: https://www.primotoys.jp/
+
+#    - title: CodeMonkey（コードモンキー）
+#      img:
+#        - /tmpimg/learn/tool/codemonkey/codemonkey2.jpg
+#        - /tmpimg/learn/tool/codemonkey/codemonkey1.jpg
+#      desc: |-
+#        CodeMonkeyは、子どもから大人まで楽しめるプログラミング学習ゲームです。プログラミング教育が盛んなイスラエルの全土の小学校を始め、世界中で600万人以上がCodeMonkeyでプログラミングを学んでいます。
+#      linkText: CodeMonkey公式サイト
+#      linkUrl: https://codemonkey.jp/
+
+
+
+

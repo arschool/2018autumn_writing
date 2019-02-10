@@ -1,30 +1,30 @@
-### フッター ###
-menu:
-  home: HOME
-  learn: 学びの内容
-  vision: 学びのビジョン
-  school: 教室・料金
-  activity: 活動の様子
-  faq: よくある質問
-  jiyugaoka: 自由が丘校
-  shinbashi: 新橋校
-  nakano: 中野校
-  aboutus: 会社概要
-  trial: 無料体験
-  brochure: 資料請求
-  inquiry: お問い合わせ
-  company: 会社概要
-  staffRecruit: 教師募集
-  recruit: 採用
-  tokusho: 特定商取引法表示
-  privacy: プライバシーポリシー
-
-title: アルスクール  探究型キッズプログラミング教室
-desc: |-
-  アルスクールはモノづくりとプログラミングを通じてこれからの時代に必要なスキルを伸ばし、子どもの未来をつくる教室です。
-  小学生、中学生、幼児(年中、年長)を対象に、自由が丘、新橋、中野で開催しています。
-button:
-  company: 会社概要
-  staff: 教師募集
-  recruit: 採用
-copy: copyright 2018 Arschool Inc.
+#### フッター ###
+#menu:
+#  home: HOME
+#  learn: 学びの内容
+#  vision: 学びのビジョン
+#  school: 教室・料金
+#  activity: 活動の様子
+#  faq: よくある質問
+#  jiyugaoka: 自由が丘校
+#  shinbashi: 新橋校
+#  nakano: 中野校
+#  aboutus: 会社概要
+#  trial: 無料体験
+#  brochure: 資料請求
+#  inquiry: お問い合わせ
+#  company: 会社概要
+#  staffRecruit: 教師募集
+#  recruit: 採用
+#  tokusho: 特定商取引法表示
+#  privacy: プライバシーポリシー
+#
+#title: アルスクール  探究型キッズプログラミング教室
+#desc: |-
+#  アルスクールはモノづくりとプログラミングを通じてこれからの時代に必要なスキルを伸ばし、子どもの未来をつくる教室です。
+#  小学生、中学生、幼児(年中、年長)を対象に、自由が丘、新橋、中野で開催しています。
+#button:
+#  company: 会社概要
+#  staff: 教師募集
+#  recruit: 採用
+#copy: copyright 2018 Arschool Inc.

@@ -79,6 +79,18 @@ jiyugaoka:
         そのまま進み、左側に自由が丘ロールを過ぎて、右側にパン屋さんがある角を左折。
         少し上り坂ですが、そこから100mほどの左手にあります。
 
+  ## Playful Time area ##
+  playful:
+    subTitle: 自由にプログラミングを楽しむ時間
+    title: <ruby>Playful Time<rt>プレイフル タイム</rt></ruby>
+    feature:
+      - 金曜、土曜の午後にアルスクール自由が丘校で開催
+      - PCやレゴ、micro:bitやキュベットなどを自由に使えます
+      - 工作の道具や段ボールなども自由に使えます
+      - アルスクールキッズ<span class="small">(*1)</span>は無料、一般の方も有料で利用可
+      - 友達を呼んだり、パパ・ママと一緒にやってみよう
+      - スタッフは教えるのではなく、一緒に遊びます
+    linkButton: Playful Timeの詳細
 
 ### 新橋校 ###
 shinbashi:
