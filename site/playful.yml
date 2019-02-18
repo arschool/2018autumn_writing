@@ -1,15 +1,14 @@
 ### 料金・教室ページの文言 ###
 
 ## メイン画像
-headingMini: 自由にプログラミングをしよう
+headingMini: 自由が丘校を開放！自由に遊ぼう
 heading: Playful Time
 
 
 ## メインコンテンツ
 catchHeading: <ruby>Playful Time<rt>プレイフル タイム</rt></ruby>とは？
 catch: |-
-  PCやタブレット、レゴBOOSTなどを<br>自由に使って遊べる時間です
-  自由にプログラミングできる環境で探究心を刺激します
+  自由が丘校を開放します。<br>PCやタブレット、<span class="nowrap">レゴBOOST</span>などを<br class="sp-only">自由に使って遊び、学べる時間です。
 
 featureHeading: <ruby>Playful Time<rt>プレイフル タイム</rt></ruby></span>の特徴
 feature:
@@ -22,7 +21,7 @@ feature:
 
 
 tools:
-  title: 利用できるデバイス
+  title: デバイスや教材
 #  subTitle: |-
 #    数に限りがあります。譲り合ってご利用ください。またお持ち帰りできません。
   contents:
@@ -67,15 +66,19 @@ tools:
       linkText: キュベット公式サイト
       linkUrl: https://www.primotoys.jp/
 
-#    - title: CodeMonkey（コードモンキー）
-#      img:
-#        - /tmpimg/learn/tool/codemonkey/codemonkey2.jpg
-#        - /tmpimg/learn/tool/codemonkey/codemonkey1.jpg
-#      desc: |-
-#        CodeMonkeyは、子どもから大人まで楽しめるプログラミング学習ゲームです。プログラミング教育が盛んなイスラエルの全土の小学校を始め、世界中で600万人以上がCodeMonkeyでプログラミングを学んでいます。
-#      linkText: CodeMonkey公式サイト
-#      linkUrl: https://codemonkey.jp/
+    - title: CodeMonkey（コードモンキー）
+      img:
+        - /img/playful/tool/codemonkey.jpg
+      desc: |-
+        CodeMonkeyは、子どもから大人まで楽しめるプログラミング学習ゲームです。<br><span class="small">※CodeMonkeyの利用にはライセンスの購入が必要です</span>
+      linkText: CodeMonkey公式サイト
+      linkUrl: https://codemonkey.jp/
 
-
-
+    - title: Scratch（スクラッチ）
+      img:
+        - /img/playful/tool/scratch2.jpg
+      desc: |-
+        Scratchは、小学生でもかんたんにプログラミングができるソフトです。世界中で2,500万人以上が使っています。
+      linkText: Scratch公式サイト
+      linkUrl: https://scratch.mit.edu/
 
