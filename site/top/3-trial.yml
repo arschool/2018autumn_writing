@@ -2,41 +2,6 @@
 
 ## 無料体験エリア ##
 trial:
-  title: 自由が丘校&nbsp;12月OPEN！<br>まずは無料体験にお越しください
-
-  sections:
-    - icon: <i class="far fa-calendar-check"></i>
-      title: 平日も週末も多数開催、途中参加もOK
-      desc: 12月、1月は連日、無料体験会を開催しています。
-
-    - icon: <i class="material-icons">filter_2</i>
-      title: 何回でも参加できます <span class="small">(2回目から500円)</span>
-      desc: |-
-        迷ったら何回でも参加ください。2回目は緊張しません。
-
-    - icon: <i class="fa fa-users"></i>
-      title: 兄弟姉妹、お友達ともぜひご一緒に
-      desc: |-
-        1人が不安な子はぜひ、お友達や兄弟と一緒にどうぞ。
-
-    - icon: <i class="material-icons">child_friendly</i>
-      title: 乳幼児も一緒に見学できます
-      desc: |-
-        泣いても大丈夫、気兼ねは一切不要です。
-
-  applyButton: 無料体験の詳細・お申込み
-
-
-#  #保護者イベント
-#  parentEvents:
-#    - title: これからの時代に必要な教育を考えよう
-#      date: 12月9日(日曜日)
-#      fee: 無料
-#      desc: |-
-#        AIやIoTなどで社会が大きく変わるなか、教育に何かしら不安を持たれている方も多いのではないでしょうか？
-#        探究学習で知られるオルタナティブスクールの先生、国際バカロレア認定校の経験もある私立中学高校の先生、アルスクール代表が登壇して、セッショントークや質疑応答を行います。フランクにディスカッションしましょう。
-#      href: /event/ev181209
-
 
   #お問い合わせ
   inquiry:
